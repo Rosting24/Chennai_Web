@@ -87,20 +87,9 @@ const Navbar = () => {
                                     width: 32,
                                     objectFit: 'contain',
                                     mr: 1,
-
                                 }}
                             />
-                            <Typography
-                                sx={{
-                                    fontFamily: 'Roboto, sans-serif',
-                                    fontWeight: 'bold',
-                                    fontSize: '2rem', // Adjust as needed
-
-                                }}
-                            >
-                                Chennai Services
-                            </Typography>
-
+                            Chennai Services
                         </Box>
                     </Typography>
 
