@@ -63,7 +63,7 @@ const Navbar = () => {
                         sx={{
                             flexGrow: 1,
                             fontWeight: 800,
-                            color: '#6A0DAD',
+                            color: '#ed155d',
                             fontSize: { xs: '1.3rem', md: '1.6rem' },
                             letterSpacing: '0.5px',
                         }}
@@ -89,7 +89,7 @@ const Navbar = () => {
                                     mr: 1,
                                 }}
                             />
-                            Coimbatore Services
+                            Chennai Services
                         </Box>
                     </Typography>
 
@@ -101,8 +101,8 @@ const Navbar = () => {
                         onClick={trackConversion1}
                         sx={{
                             backgroundColor: 'white',
-                            color: '#5A0B9D',
-                            borderColor: '#5A0B9D',
+                            color: '#ed155d',
+                            borderColor: '#ed155d',
 
                             borderRadius: '8px',
                             px: { xs: 2, md: 3 },

@@ -44,7 +44,7 @@ const Footer = () => {
         mt: 'auto',
         backgroundColor: '#6A0DAD', // Deep violet background
         color: 'white',
-        background: 'linear-gradient(135deg, #6A0DAD 0%, #8A2BE2 100%)', // Gradient effect
+        background: 'linear-gradient(135deg, #6A0DAD 0%, #ed155d 100%)', // Gradient effect
       }}
     >
       <Container maxWidth="lg">
@@ -100,7 +100,7 @@ const Footer = () => {
             opacity: 0.9,
             fontSize: '0.9rem'
           }}>
-            Serving Coimbatore • 24/7 Emergency Service • Licensed Technicians
+            Serving Chennai • 24/7 Emergency Service • Licensed Technicians
           </Typography>
         </Box>
       </Container>

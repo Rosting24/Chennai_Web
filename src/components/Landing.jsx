@@ -232,8 +232,8 @@ function Landing() {
 
             }}
           >
-            AC, Fridge, Washing Machine Service center in Coimbatore
-            <span style={{ fontWeight: 'bold', color: '#ed155d' }}> ! </span>🚀
+            AC, Fridge, Washing Machine Service center in 
+            <span style={{ fontWeight: 'bold', color: '#ed155d' }}> Chennai ! </span>🚀
           </Typography>
 
           <Paper elevation={2} sx={{ p: 3, mb: 4, borderRadius: 2 }}>
@@ -243,7 +243,7 @@ function Landing() {
               sx={{ mb: 3 }}
             >
               Looking for trusted home appliance repair in
-              <span style={{ fontWeight: 'bold', color: '#ed155d' }}> Coimbatore? </span>
+              <span style={{ fontWeight: 'bold', color: '#ed155d' }}> Chennai ? </span>
               We provide professional repair services for a wide range of household appliances.
               Whether it's your <span style={{ fontWeight: 'bold' }}> Washing machine, Air conditioner, Refrigerator, Microwave oven </span>
               or any other Home appliance, we’ve got you covered.✨
@@ -388,7 +388,7 @@ function Landing() {
         color: 'white',
         py: { xs: 8, md: 12 },
         textAlign: 'center',
-        background: 'linear-gradient(135deg, #6A0DAD 0%, #8A2BE2 100%)'
+        background: 'linear-gradient(135deg, #6A0DAD 0%, #ed155d 100%)'
       }}>
         <Container maxWidth="md">
           <Typography variant="h3" sx={{ mb: 3, fontWeight: 800, letterSpacing: 1 }}>
