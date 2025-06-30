@@ -135,7 +135,7 @@ function Landing() {
         },
         body: JSON.stringify({
           timestamp: new Date().toISOString(),
-          source: 'Emergency button'
+          source: 'Emergency button Chennai'
         }),
       });
 
@@ -149,7 +149,7 @@ function Landing() {
       if (window.gtag) {
         window.gtag('event', 'conversion', {
           'event_category': 'Lead',
-          'event_label': 'Enquiry Submitted'
+          'event_label': 'Enquiry Submitted Chennai'
         });
       }
 
@@ -168,7 +168,7 @@ function Landing() {
         },
         body: JSON.stringify({
           timestamp: new Date().toISOString(),
-          source: 'Enquiry'
+          source: 'Enquiry Chennai'
         }),
       });
 
